@@ -16,9 +16,10 @@ The project presents an analysis of New York Citi Bike data, using data visualiz
 Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
 Software: Python, Anaconda Navigator, Conda, Jupyter Notebook, Tableau Public, Visual Studio Code, CSV Files
 
-##   Results Deployed Tableau Analysis
+##   Results from Tableau Analysis
+
 ###  New York Citi Bike data visualizations for August 2019
-Change Trip Duration to a Datetime Format Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the convertion of the "tripduration" column to a datetime dataytpe, the DataFrame was exported as a CSV file to use for the trip analysis.
+Change "Trip Duration" to a "Datetime Format" Using Python and Pandas functions, the "Trip Duration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the convertion of the "tripduration" column to a datetime dataytpe, the DataFrame was exported as a CSV file to use for the trip analysis.
 
 ![Image 1 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/b0cf41b4-74cf-4ac2-a78d-75035984d88e)
 
