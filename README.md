@@ -37,11 +37,13 @@ Change Trip Duration to a Datetime Format Using Python and Pandas functions, the
 ####  Create the Checkout Times by Gender
 • Male users take approximately 3 times more rides than the female users.
 
-Image 4
+![image 4 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/e8ff754b-2e1e-4e23-8ba7-a1d24cc4ea9a)
+
 
 ####  Trips by Weekday for Each Hour
 
-Image 5
+![image 5](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/9a4887e6-38c5-4ef3-bfb3-20e721fbf4f2)
+
 
 ####  Trips by Gender (Weekday per Hour)
 
@@ -51,7 +53,8 @@ Image 5
 
 • Those rides are mostly taken by male users.
 
-Image 6
+![image 6 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/47e96e7e-6b7a-4f8e-8379-49802a6527b4)
+
 
 ####  User Trips by Gender by Weekday
 
