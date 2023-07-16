@@ -67,13 +67,12 @@ Change "Trip Duration" to a "Datetime Format" Using Python and Pandas functions,
 
 ####  Top Starting Locations
 
-• There were over 2.3 million rides for the month of August 2019.
 
 • 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
 
-• There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
+• There is a wide range of the age of the users. Younger users tend to use the service for longer ridesas a form of transportation.
 
-• Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
+• Top ride starting locations are in places where tourists visit most and generally busy areas, as we see here in Manhattan.
 
 ![image 8](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/0cbc90cc-d3ba-4838-b73c-843f0dbe7bdc)
 
@@ -98,7 +97,7 @@ Change "Trip Duration" to a "Datetime Format" Using Python and Pandas functions,
 ####  Summary
 • The data shows high activity of the bike sharing service in New York during the month of August 2019.
 
-• The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+• The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that CitiBike services are used as an alternative to public transportation by commuting workers.
 
 Additional analysis would be beneficial by :
 
