@@ -18,16 +18,21 @@ Software: Python, Anaconda Navigator, Conda, Jupyter Notebook, Tableau Public, V
 ###  New York Citi Bike data visualizations for August 2019
 Change Trip Duration to a Datetime Format Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After the convertion of the "tripduration" column to a datetime dataytpe, the DataFrame was exported as a CSV file to use for the trip analysis.
 
-![Original](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/6e7ae601-a709-4a1b-a947-75adc9414d97)
+![Image 1 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/b0cf41b4-74cf-4ac2-a78d-75035984d88e)
+
 
 ####  Length of time that bikes are checked out for all riders
 
-Image 2
+![length of time that bikes are checked out for all riders](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/0b0de12a-8661-4c88-93d3-684eb2b1c657)
+
+
+
 
 ####  Create the Checkout Times for Users
 •Bikes are checked out for ~ 4 to 6 hours.
 
-Image 3
+![image 2](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/2344802e-cbf3-4f82-b4d3-53db27843c92)
+
 
 ####  Create the Checkout Times by Gender
 • Male users take approximately 3 times more rides than the female users.
