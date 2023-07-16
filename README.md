@@ -10,6 +10,10 @@ The project presents an analysis of New York Citi Bike data, using data visualiz
 
 • Finally, the new visualizations are added to the two you created in this module for your final presentation and analysis to pitch to investors.
 
+![image 10 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/9e634eee-f501-4c03-a888-7305e50938a8)
+
+
+
 ##  Resources
 Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
 Software: Python, Anaconda Navigator, Conda, Jupyter Notebook, Tableau Public, Visual Studio Code, CSV Files
@@ -81,7 +85,8 @@ Change Trip Duration to a Datetime Format Using Python and Pandas functions, the
 
 • The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
-![image 9 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/7ab73651-80ff-4485-8b6c-73df5833417f)
+![image 11](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/0a37fdf5-0974-4361-860d-25b6080c0ae1)
+
 
 
 
