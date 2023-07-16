@@ -10,7 +10,8 @@ The project presents an analysis of New York Citi Bike data, using data visualiz
 
 • Finally, the new visualizations are added to the two you created in this module for your final presentation and analysis to pitch to investors.
 
-#  IMAGE 1
+![Original](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/6e7ae601-a709-4a1b-a947-75adc9414d97)
+
 
 ##  Resources
 Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
