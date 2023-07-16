@@ -58,7 +58,9 @@ Change Trip Duration to a Datetime Format Using Python and Pandas functions, the
 
 ####  User Trips by Gender by Weekday
 
-Image 7
+![image 7](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/97de9a47-6c55-46f8-bdae-a90788c45d15)
+
+
 
 ####  Top Starting Locations
 
@@ -70,18 +72,24 @@ Image 7
 
 • Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
-Image 8
+![image 8](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/0cbc90cc-d3ba-4838-b73c-843f0dbe7bdc)
+
+
 
 ####  August Peak Hours
 • Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
 
 • The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
-Image 9
+![image 9 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/7ab73651-80ff-4485-8b6c-73df5833417f)
+
+
 
 ####  Bike Utilization
 
-Image 10
+![image 10 ](https://github.com/jhansolo33/NY-Citibike-bikesharing/assets/119264589/85479795-d87f-4acc-921e-d08b74dbb233)
+
+
 
 ####  Summary
 • The data shows high activity of the bike sharing service in New York during the month of August 2019.
