@@ -1,4 +1,4 @@
-# NY-Citibike-with-Tableau
+# NY-Citibike-bikesharing with Tableau
 
 ##  Project Overview:
 The project presents an analysis of New York Citi Bike data, using data visualization tools to present to the investors for exploration of the viability of a bike-sharing business in Des Moines. For this analysis, I utilized Pandas to change the "tripduration" column from an integer to a datetime datatype. Using the converted datatype to create a set of visualizations to demonstrate the following:
